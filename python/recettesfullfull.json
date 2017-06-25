@@ -1,0 +1,422 @@
+[
+    {
+        "ingedients": [
+            {
+                "description": "1/2 chou frisé bien croquant",
+                "id": 1369,
+                "name": "Chou Frisé"
+            },
+            {
+                "description": "3 tomates bien mûres (ou 1 boîte de tomates concassées)",
+                "id": 615,
+                "name": "Tomate"
+            },
+            {
+                "description": "150 g de tofu bien ferme",
+                "id": 350,
+                "name": "Tofu"
+            },
+            {
+                "description": "4 gros champignons de Paris frais (ou 1 petite boîte de champignons de Paris)",
+                "id": 1308,
+                "name": "Champignon de Paris Frais"
+            },
+            {
+                "description": "1 cuillère à soupe de concentré de tomate",
+                "id": 742,
+                "name": "Concentré de Tomate"
+            },
+            {
+                "description": "2 grosses gousses d'ail",
+                "id": 634,
+                "name": "Ail Frais"
+            },
+            {
+                "description": "1 oignon",
+                "id": 636,
+                "name": "Oignon Frais"
+            },
+            {
+                "description": "25 cl de lait",
+                "id": 120,
+                "name": "Lait de Vache"
+            },
+            {
+                "description": "2 cuillères à soupe de crème fraîche épaisse",
+                "id": 368,
+                "name": "Crème Fraîche Épaisse"
+            },
+            {
+                "description": "3 cuillère à soupe de maïzena",
+                "id": 569,
+                "name": "Fécule de Maïs"
+            },
+            {
+                "description": "une poignée de fromage râpé.",
+                "id": 1284,
+                "name": "Fromage Râpé"
+            }
+        ],
+        "name": "Lasagne de chou vert",
+        "url": "http://www.marmiton.org/recettes/recette_lasagnes-de-chou-vert-frise_36756.aspx"
+    },
+    {
+        "name": "Palets de légumes",
+        "url": "http://www.marmiton.org/recettes/recette_palets-de-legumes_347664.aspx"
+    },
+    {
+        "ingedients": [
+            {
+                "description": "4 carottes",
+                "id": 627,
+                "name": "Carotte"
+            },
+            {
+                "description": "100 g de jambon blanc",
+                "id": 387,
+                "name": "Jambon Blanc"
+            },
+            {
+                "description": "6 oeufs",
+                "id": 124,
+                "name": "Oeuf"
+            },
+            {
+                "description": "25 cl de lait",
+                "id": 120,
+                "name": "Lait de Vache"
+            },
+            {
+                "description": "30 g de beurre doux",
+                "id": 374,
+                "name": "Beurre Doux"
+            },
+            {
+                "description": "30 g de farine",
+                "id": 571,
+                "name": "Farine Blanche"
+            },
+            {
+                "description": "30 g d'emmental râpé",
+                "id": 1051,
+                "name": "Emmental Râpé"
+            },
+            {
+                "description": "1 pincée de muscade",
+                "id": 550,
+                "name": "Noix de Muscade"
+            }
+        ],
+        "name": "Soufflé Carotte-Jambon au ketchup",
+        "url": "http://www.marmiton.org/recettes/recette_souffle-carotte-jambon-au-ketchup_337141.aspx"
+    },
+    {
+        "ingedients": [
+            {
+                "description": "8 feuilles de brick ou feuilles de pâte à filo",
+                "id": 1157,
+                "name": "Pâte Filo"
+            },
+            {
+                "description": "8 feuilles de brick ou feuilles de pâte à filo",
+                "id": 1158,
+                "name": "Feuille de Brick"
+            },
+            {
+                "description": "4 tiges de ciboulette",
+                "id": 527,
+                "name": "Ciboulette"
+            },
+            {
+                "description": "1 camembert coupé en 4",
+                "id": 1610,
+                "name": "Camembert"
+            },
+            {
+                "description": "1 pomme verte (Granny) ou 1 poire",
+                "id": 98,
+                "name": "Poire"
+            },
+            {
+                "description": "1 pomme verte (Granny) ou 1 poire",
+                "id": 665,
+                "name": "Pomme Granny Smith"
+            },
+            {
+                "description": "4 cuillères à café de pignons de pin",
+                "id": 886,
+                "name": "Pignon"
+            },
+            {
+                "description": "50 g de beurre",
+                "id": 374,
+                "name": "Beurre Doux"
+            }
+        ],
+        "name": "Aumonières surprise au camembert",
+        "url": "http://www.marmiton.org/recettes/recette_aumonieres-surprises-au-camembert_17215.aspx"
+    },
+    {
+        "ingedients": [
+            {
+                "description": "2 kiwis",
+                "id": 641,
+                "name": "Kiwi"
+            },
+            {
+                "description": "2 tomates",
+                "id": 615,
+                "name": "Tomate"
+            }
+        ],
+        "name": "salade de kiwi et tomates",
+        "url": "http://www.marmiton.org/recettes/recette_salade-de-kiwis-et-tomates-de-lili_28806.aspx"
+    },
+    {
+        "ingedients": [
+            {
+                "description": "3 pavés de saumon frais",
+                "id": 409,
+                "name": "Saumon"
+            },
+            {
+                "description": "2 tranches de saumon fumé",
+                "id": 403,
+                "name": "Saumon Fumé"
+            },
+            {
+                "description": "1 avocat",
+                "id": 675,
+                "name": "Avocat"
+            },
+            {
+                "description": "1 échalote",
+                "id": 621,
+                "name": "Échalote"
+            },
+            {
+                "description": "3 cuillère à café de yaourt nature",
+                "id": 354,
+                "name": "Yaourt Nature"
+            },
+            {
+                "description": "1/2 citron (le jus)",
+                "id": 649,
+                "name": "Citron"
+            },
+            {
+                "description": "6 brins de ciboulette",
+                "id": 527,
+                "name": "Ciboulette"
+            }
+        ],
+        "name": "Tartare Saumon-Avocat",
+        "url": "http://www.marmiton.org/recettes/recette_tartare-saumon-avocat_312866.aspx"
+    },
+    {
+        "ingedients": [
+            {
+                "description": "250 g de farine",
+                "id": 571,
+                "name": "Farine Blanche"
+            },
+            {
+                "description": "12 g de levure fraîche",
+                "id": 177,
+                "name": "Levure"
+            },
+            {
+                "description": "25 cl de lait",
+                "id": 120,
+                "name": "Lait de Vache"
+            },
+            {
+                "description": "2 oeufs",
+                "id": 124,
+                "name": "Oeuf"
+            },
+            {
+                "description": "50 g de beurre",
+                "id": 374,
+                "name": "Beurre Doux"
+            },
+            {
+                "description": "250 g de coulis de tomates",
+                "id": 741,
+                "name": "Coulis de Tomate"
+            },
+            {
+                "description": "2 tranches de jambon",
+                "id": 86,
+                "name": "Jambon"
+            },
+            {
+                "description": "1 boule de mozzarella",
+                "id": 1053,
+                "name": "Mozzarella"
+            }
+        ],
+        "name": "Gaufre façon pizza",
+        "url": "http://www.marmiton.org/recettes/recette_gaufre-facon-pizza_346285.aspx"
+    },
+    {
+        "ingedients": [
+            {
+                "description": "1 verre de quinoa",
+                "id": 491,
+                "name": "Quinoa"
+            },
+            {
+                "description": "1/2 concombre",
+                "id": 237,
+                "name": "Concombre"
+            },
+            {
+                "description": "2 tomates",
+                "id": 615,
+                "name": "Tomate"
+            },
+            {
+                "description": "20 feuilles de menthe",
+                "id": 532,
+                "name": "Menthe"
+            },
+            {
+                "description": "1 échalote",
+                "id": 621,
+                "name": "Échalote"
+            },
+            {
+                "description": "jus de citron",
+                "id": 897,
+                "name": "Jus de Citron"
+            }
+        ],
+        "name": "Salade de quinoa",
+        "url": "http://www.marmiton.org/recettes/recette_salade-de-quinoa_29581.aspx"
+    },
+    {
+        "ingedients": [
+            {
+                "description": "150 g de jeunes feuilles d'épinards fraîches (ou sachet)",
+                "id": 683,
+                "name": "Épinard"
+            },
+            {
+                "description": "12 grosses fraises (150 g)",
+                "id": 643,
+                "name": "Fraise"
+            },
+            {
+                "description": "50 g de noix de pécan (glacées de préférence)",
+                "id": 1173,
+                "name": "Noix de Pécan"
+            },
+            {
+                "description": "vinaigrette (framboise de préférence)",
+                "id": 276,
+                "name": "Vinaigrette"
+            }
+        ],
+        "name": "Salade épinards, chèvre et fraises",
+        "url": "http://www.marmiton.org/recettes/recette_salade-epinards-chevre-et-fraises_30954.aspx"
+    },
+    {
+        "ingedients": [
+            {
+                "description": "2 pamplemousses",
+                "id": 650,
+                "name": "Pamplemousse"
+            },
+            {
+                "description": "50 g de beurre",
+                "id": 374,
+                "name": "Beurre Doux"
+            },
+            {
+                "description": "50 g de sucre en poudre",
+                "id": 449,
+                "name": "Sucre en Poudre"
+            },
+            {
+                "description": "1 cuillère à soupe de cannelle",
+                "id": 544,
+                "name": "Cannelle"
+            },
+            {
+                "description": "1 trait de jus de citron",
+                "id": 897,
+                "name": "Jus de Citron"
+            }
+        ],
+        "name": "Pamplemousse gratinée à la cannelle",
+        "url": "http://www.marmiton.org/recettes/recette_pamplemousses-gratines-a-la-cannelle_25263.aspx"
+    },
+    {
+        "ingedients": [
+            {
+                "description": "600 g de calamars",
+                "id": 435,
+                "name": "Calamar"
+            },
+            {
+                "description": "vinaigre balsamique",
+                "id": 515,
+                "name": "Vinaigre Balsamique"
+            },
+            {
+                "description": "1/4 de tasse de raisin sec",
+                "id": 759,
+                "name": "Raisin Sec"
+            },
+            {
+                "description": "oignon rouge émincé",
+                "id": 640,
+                "name": "Oignon Rouge"
+            },
+            {
+                "description": "1 tasse de vin blanc sec",
+                "id": 25,
+                "name": "Vin Blanc"
+            },
+            {
+                "description": "4 tomates pelées, épépinées et hachée",
+                "id": 615,
+                "name": "Tomate"
+            },
+            {
+                "description": "1/4 de tasse de persil haché",
+                "id": 536,
+                "name": "Persil"
+            },
+            {
+                "description": "pignons, selon le goût",
+                "id": 886,
+                "name": "Pignon"
+            },
+            {
+                "description": "1 pointe de couteau de paprika et de piment en poudre",
+                "id": 543,
+                "name": "Piment"
+            }
+        ],
+        "name": "Salade de calamar",
+        "url": "http://www.marmiton.org/recettes/recette_salade-de-calamars_35017.aspx"
+    },
+    {
+        "ingedients": [
+            {
+                "description": "350 g de radis",
+                "id": 629,
+                "name": "Radis"
+            },
+            {
+                "description": "1 yaourt brassé allégé",
+                "id": 354,
+                "name": "Yaourt Nature"
+            }
+        ],
+        "name": "Soupe de radis rose",
+        "url": "http://www.marmiton.org/recettes/recette_soupe-froide-de-radis-roses_38509.aspx"
+    }
+]

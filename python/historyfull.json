@@ -1,0 +1,386 @@
+{
+    "Alcools et bières": [
+        {
+            "category": "Alcools et bières",
+            "id": 6824153,
+            "name": "Cidre Doux LeBrun"
+        },
+        {
+            "category": "Alcools et bières",
+            "id": 6829496,
+            "name": "Bière Kronenbourg"
+        },
+        {
+            "category": "Alcools et bières",
+            "id": 6824947,
+            "name": "Pastis Ricard"
+        }
+    ],
+    "Apéritif": [
+        {
+            "category": "Apéritif",
+            "id": 12301599,
+            "name": "Cacahuètes Casino"
+        },
+        {
+            "category": "Apéritif",
+            "id": 12720318,
+            "name": "Guacamole"
+        }
+    ],
+    "Beurres, œufs et crèmes": [
+        {
+            "category": "Beurres, œufs et crèmes",
+            "id": 6828488,
+            "name": "Margarine Planta Fin"
+        },
+        {
+            "category": "Beurres, œufs et crèmes",
+            "id": 12719257,
+            "name": "Œufs"
+        },
+        {
+            "category": "Beurres, œufs et crèmes",
+            "id": 12433584,
+            "name": "Omega 3 St Hubert"
+        }
+    ],
+    "Boucherie, volaille": [
+        {
+            "category": "Boucherie, volaille",
+            "id": 6824662,
+            "name": "Steak haché Casino"
+        },
+        {
+            "category": "Boucherie, volaille",
+            "id": 6826886,
+            "name": "Caille"
+        }
+    ],
+    "Cafés et boissons chaudes": [
+        {
+            "category": "Cafés et boissons chaudes",
+            "id": 6824772,
+            "name": "Thé Lipton"
+        },
+        {
+            "category": "Cafés et boissons chaudes",
+            "id": 6825227,
+            "name": "Café Casino"
+        },
+        {
+            "category": "Cafés et boissons chaudes",
+            "id": 6827040,
+            "name": "Infusion digestion légère Éléphant"
+        }
+    ],
+    "Charcuterie": [
+        {
+            "category": "Charcuterie",
+            "id": 12419462,
+            "name": "Tendre Noix - A la Broche - 6 tranches Herta"
+        },
+        {
+            "category": "Charcuterie",
+            "id": 6824642,
+            "name": "Mortadelle"
+        },
+        {
+            "category": "Charcuterie",
+            "id": 6824862,
+            "name": "Jambon Casino"
+        },
+        {
+            "category": "Charcuterie",
+            "id": 6825333,
+            "name": "Rillettes Bordeau Chesnel"
+        }
+    ],
+    "Chats": [
+        {
+            "category": "Chats",
+            "id": 12263648,
+            "name": "Croquettes Purina"
+        },
+        {
+            "category": "Chats",
+            "id": 6826359,
+            "name": "Barquette saumon Casino"
+        },
+        {
+            "category": "Chats",
+            "id": 6828135,
+            "name": "Hygiene plus - Litière Catsan"
+        }
+    ],
+    "Chiens": [],
+    "Condiments et sauces": [
+        {
+            "category": "Condiments et sauces",
+            "id": 6824922,
+            "name": "Cornichons Amora"
+        },
+        {
+            "category": "Condiments et sauces",
+            "id": 6825152,
+            "name": "Tomacouli - Purée de tomates fraîches Panzani"
+        }
+    ],
+    "Conserves": [
+        {
+            "category": "Conserves",
+            "id": 6825719,
+            "name": "Champignons de paris Casino"
+        },
+        {
+            "category": "Conserves",
+            "id": 6829033,
+            "name": "Ratatouille Cassegrain"
+        }
+    ],
+    "Desserts": [
+        {
+            "category": "Desserts",
+            "id": 6825703,
+            "name": "Farine Francine"
+        },
+        {
+            "category": "Desserts",
+            "id": 6826979,
+            "name": "feuilles de brick Casino"
+        }
+    ],
+    "Eaux et laits": [
+        {
+            "category": "Eaux et laits",
+            "id": 12432549,
+            "name": "Lait Candia"
+        }
+    ],
+    "Entretien de la maison": [
+        {
+            "category": "Entretien de la maison",
+            "id": 12324973,
+            "name": "Eponge Spontex"
+        },
+        {
+            "category": "Entretien de la maison",
+            "id": 6824614,
+            "name": "Eau de javel - Berlingot - Eucalyptus Casino"
+        },
+
+        {
+            "category": "Entretien de la maison",
+            "id": 6824703,
+            "name": "Poudre bi-javellisante Ajax"
+        },
+        {
+            "category": "Entretien de la maison",
+            "id": 6825093,
+            "name": "Gel Antikal"
+        }
+    ],
+    "Fromages": [
+        {
+            "category": "Fromages",
+            "id": 12689570,
+            "name": "Mozzarella di bufala Campana Dop"
+        },
+        {
+            "category": "Fromages",
+            "id": 12419463,
+            "name": "Comté râpé - 34% mg EntreMont"
+        },
+        {
+            "category": "Fromages",
+            "id": 12321374,
+            "name": "Crottin de chèvre Rians"
+        },
+        {
+            "category": "Fromages",
+            "id": 6823676,
+            "name": "Duo Saint Felicien et Saint Marcellin"
+        },
+        {
+            "category": "Fromages",
+            "id": 6824587,
+            "name": "Roquefort 4 portions Casino"
+        }
+    ],
+    "Fruits": [
+        {
+            "category": "Fruits",
+            "id": 6819868,
+            "name": "Cerises"
+        },
+        {
+            "category": "Fruits",
+            "id": 6819509,
+            "name": "Nectarine Jaune"
+        }
+    ],
+    "Gourmet et Fromage": [
+        {
+            "category": "Gourmet et Fromage",
+            "id": 6829614,
+            "name": "Taboulé à l'oriental"
+        },
+        {
+            "category": "Gourmet et Fromage",
+            "id": 6825416,
+            "name": "St nectaire"
+        }
+    ],
+    "Goûters": [
+        {
+            "category": "Goûters",
+            "id": 6824170,
+            "name": "KitKat"
+        },
+        {
+            "category": "Goûters",
+            "id": 6833219,
+            "name": "Biscuit Oreo"
+        }
+    ],
+    "Hygiène": [
+        {
+            "category": "Hygiène",
+            "id": 6821759,
+            "name": "Couches bébé Casino"
+        },
+        {
+            "category": "Hygiène",
+            "id": 6826307,
+            "name": "Lingettes Pampers"
+        }
+
+    ],
+    "Jus de fruits et sirops": [
+        {
+            "category": "Jus de fruits et sirops",
+            "id": 6824993,
+            "name": "Jus d'orange Tropicana"
+        },
+        {
+            "category": "Jus de fruits et sirops",
+            "id": 6826572,
+            "name": "Sirop pêche Moulin de Valdonne"
+        }
+    ],
+    "Légumes": [
+        {
+            "category": "Légumes",
+            "id": 6824721,
+            "name": "Piment vert"
+        },
+        {
+            "category": "Légumes",
+            "id": 6825896,
+            "name": "Aubergines"
+        }
+    ],
+    "Papiers, cotons et parapharmacie": [
+        {
+            "category": "Papiers, cotons et parapharmacie",
+            "id": 6829511,
+            "name": "Essuie tout Casino"
+        }
+    ],
+    "Petit déjeuner": [
+        {
+            "category": "Petit déjeuner",
+            "id": 6824644,
+            "name": "Confiture de Fraises Bonne Maman"
+        },
+        {
+            "category": "Petit déjeuner",
+            "id": 6825262,
+            "name": "Miel Casino"
+        },
+        {
+            "category": "Petit déjeuner",
+            "id": 12584503,
+            "name": "Nutella"
+        },
+        {
+            "category": "Petit déjeuner",
+            "id": 6826873,
+            "name": "Frosties Kellogg's"
+        }
+    ],
+    "Plats cuisinés, tartes et pizzas": [
+        {
+            "category": "Plats cuisinés, tartes et pizzas",
+            "id": 12296613,
+            "name": "Riz cantonais"
+        },
+        {
+            "category": "Plats cuisinés, tartes et pizzas",
+            "id": 12321362,
+            "name": "Buns saveur bolognaise"
+        },
+        {
+            "category": "Plats cuisinés, tartes et pizzas",
+            "id": 6824966,
+            "name": "Les petits feuilletés - 40 blinis Blini"
+        }
+    ],
+    "Riz, pâtes et légumes secs": [
+        {
+            "category": "Riz, pâtes et légumes secs",
+            "id": 6824621,
+            "name": "Spaghetti Panzani"
+        }
+    ],
+    "Sodas": [
+        {
+            "category": "Sodas",
+            "id": 6826466,
+            "name": "Limonade"
+        }
+    ],
+    "Soins des cheveux": [
+        {
+            "category": "Soins des cheveux",
+            "id": 6824625,
+            "name": "Après-shampooing Le Petit Marseillais"
+        },
+        {
+            "category": "Soins des cheveux",
+            "id": 6824674,
+            "name": "Laque Casino"
+        }
+    ],
+    "Soins du corps": [
+        {
+            "category": "Soins du corps",
+            "id": 6824142,
+            "name": "Déodorant Ushuaïa"
+        }
+    ],
+    "Soins du linge": [
+        {
+            "category": "Soins du linge",
+            "id": 12720248,
+            "name": "Lessive"
+        }
+    ],
+    "Yaourts et desserts": [
+        {
+            "category": "Yaourts et desserts",
+            "id": 12714397,
+            "name": "Taillefine"
+        },
+        {
+            "category": "Yaourts et desserts",
+            "id": 6822655,
+            "name": "Danette"
+        },
+        {
+            "category": "Yaourts et desserts",
+            "id": 6824906,
+            "name": "Fromage blanc"
+        }
+    ]
+}

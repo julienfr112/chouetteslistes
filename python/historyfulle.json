@@ -1,0 +1,384 @@
+{
+    "Alcohol and beer": [
+        {
+            "Category": "Alcohol and beer",
+            "Id": 6824153,
+            "Name": "Sweet Cider LeBrun"
+        },
+        {
+            "Category": "Alcohol and beer",
+            "Id": 6829496,
+            "Name": "Beer Kronenbourg"
+        },
+        {
+            "Category": "Alcohol and beer",
+            "Id": 6824947,
+            "Name": "Pastis Ricard"
+        }
+    ],
+    "Aperitif": [
+        {
+            "Category": "Aperitif",
+            "Id": 12301599,
+            "Name": "Peanuts Casino"
+        },
+        {
+            "Category": "Aperitif",
+            "Id": 12720318,
+            "Name": "Guacamole"
+        }
+    ],
+    "Butter, eggs and creams": [
+        {
+            "Category": "Butters, eggs and creams",
+            "Id": 6828488,
+            "Name": "Margarine Planta Fin"
+        },
+        {
+            "Category": "Butters, eggs and creams",
+            "Id": 12719257,
+            "Name": "Eggs"
+        },
+        {
+            "Category": "Butters, eggs and creams",
+            "Id": 12433584,
+            "Name": "Omega 3 St Hubert"
+        }
+    ],
+    "Butchery, poultry": [
+        {
+            "Category": "Butchery, poultry",
+            "Id": 6824662,
+            "Name": "Steak hash Casino"
+        },
+        {
+            "Category": "Butchery, poultry",
+            "Id": 6826886,
+            "Name": "Quail"
+        }
+    ],
+    "Coffee and hot drinks": [
+        {
+            "Category": "Caf\u00e9s and hot drinks",
+            "Id": 6824772,
+            "Name": "Lipton Tea"
+        },
+        {
+            "Category": "Caf\u00e9s and hot drinks",
+            "Id": 6825227,
+            "Name": "Caf\u00e9 Casino"
+        },
+        {
+            "Category": "Caf\u00e9s and hot drinks",
+            "Id": 6827040,
+            "Name": "Infusion light digestion Elephant"
+        }
+    ],
+    "Delicatessen": [
+        {
+            "Category": "Charcuterie",
+            "Id": 12419462,
+            "Name": "Tendre Nuts - A la broche - 6 slices Herta"
+        },
+        {
+            "Category": "Charcuterie",
+            "Id": 6824642,
+            "Name": "Mortadelle"
+        },
+        {
+            "Category": "Charcuterie",
+            "Id": 6824862,
+            "Name": "Casino ham"
+        },
+        {
+            "Category": "Charcuterie",
+            "Id": 6825333,
+            "Name": "Rillettes Bordeau Chesnel"
+        }
+    ],
+    "Cats": [
+        {
+            "Category": "Cats",
+            "Id": 12263648,
+            "Name": "Purina Croquettes"
+        },
+        {
+            "Category": "Cats",
+            "Id": 6826359,
+            "Name": "Casino salmon barquette"
+        },
+        {
+            "Category": "Cats",
+            "Id": 6828135,
+            "Name": "Hygiene plus - Litter Catsan"
+        }
+    ],
+    "Dogs": [],
+    "Condiments and sauces": [
+        {
+            "Category": "Condiments and sauces",
+            "Id": 6824922,
+            "Name": "Cornichons Amora"
+        },
+        {
+            "Category": "Condiments and sauces",
+            "Id": 6825152,
+            "Name": "Tomacouli - Fresh tomato puree Panzani"
+        }
+    ],
+    "Conserves": [
+        {
+            "Category": "Conserves",
+            "Id": 6825719,
+            "Name": "Mushrooms of Casino bets"
+        },
+        {
+            "Category": "Conserves",
+            "Id": 6829033,
+            "Name": "Ratatouille Cassegrain"
+        }
+    ],
+    "Desserts": [
+        {
+            "Category": "Desserts",
+            "Id": 6825703,
+            "Name": "Farine Francine"
+        },
+        {
+            "Category": "Desserts",
+            "Id": 6826979,
+            "Name": "casino brick sheets"
+        }
+    ],
+    "Water and Milk": [
+        {
+            "Category": "Waters and Milks",
+            "Id": 12432549,
+            "Name": "Milk Candia"
+        }
+    ],
+    "Home maintenance": [
+        {
+            "Category": "Maintenance of the house",
+            "Id": 12324973,
+            "Name": "Spontex Sponge"
+        },
+        {
+            "Category": "Maintenance of the house",
+            "Id": 6824614,
+            "Name": "Eau de Javel - Berlingot - Eucalyptus Casino"
+        },
+        {
+            "Category": "Maintenance of the house",
+            "Id": 6824703,
+            "Name": "Ajax double-bleach powder"
+        },
+        {
+            "Category": "Maintenance of the house",
+            "Id": 6825093,
+            "Name": "Gel Antikal"
+        }
+    ],
+    "Cheeses": [
+        {
+            "Category": "Cheese",
+            "Id": 12689570,
+            "Name": "Mozzarella di bufala Campana Dop"
+        },
+        {
+            "Category": "Cheese",
+            "Id": 12419463,
+            "Name": "Comt\u00e9 shredded - 34% mg EntreMont"
+        },
+        {
+            "Category": "Cheese",
+            "Id": 12321374,
+            "Name": "Rattan goat's eye"
+        },
+        {
+            "Category": "Cheese",
+            "Id": 6823676,
+            "Name": "Duo Saint Felicien and Saint Marcellin"
+        },
+        {
+            "Category": "Cheese",
+            "Id": 6824587,
+            "Name": "Roquefort 4 portions Casino"
+        }
+    ],
+    "Fruits": [
+        {
+            "Category": "Fruits",
+            "Id": 6819868,
+            "Name": "Cherries"
+        },
+        {
+            "Category": "Fruits",
+            "Id": 6819509,
+            "Name": "Yellow Nectarine"
+        }
+    ],
+    "Gourmet and Cheese": [
+        {
+            "Category": "Gourmet and Cheese",
+            "Id": 6829614,
+            "Name": "Tabbl\u00e9 \u00e0 l'oriental"
+        },
+        {
+            "Category": "Gourmet and Cheese",
+            "Id": 6825416,
+            "Name": "St nectaire"
+        }
+    ],
+    "Tastes": [
+        {
+            "Category": "Tasting",
+            "Id": 6824170,
+            "Name": "KitKat"
+        },
+        {
+            "Category": "Tasting",
+            "Id": 6833219,
+            "Name": "Biscuit Oreo"
+        }
+    ],
+    "Hygiene": [
+        {
+            "Category": "Hygiene",
+            "Id": 6821759,
+            "Name": "Baby Layers Casino"
+        },
+        {
+            "Category": "Hygiene",
+            "Id": 6826307,
+            "Name": "Pampers Wipes"
+        }
+    ],
+    "Fruit juices and syrups": [
+        {
+            "Category": "Fruit juices and syrups",
+            "Id": 6824993,
+            "Name": "Orange juice Tropicana"
+        },
+        {
+            "Category": "Fruit juices and syrups",
+            "Id": 6826572,
+            "Name": "Fishing syrup Moulin de Valdonne"
+        }
+    ],
+    "Vegetables": [
+        {
+            "Category": "Vegetables",
+            "Id": 6824721,
+            "Name": "green pepper"
+        },
+        {
+            "Category": "Vegetables",
+            "Id": 6825896,
+            "Name": "Aubergines"
+        }
+    ],
+    "Papers, cottons and parapharmacy": [
+        {
+            "Category": "Papers, cottons and parapharmacy",
+            "Id": 6829511,
+            "Name": "Wipe everything Casino"
+        }
+    ],
+    "Breakfast": [
+        {
+            "Category": "Breakfast",
+            "Id": 6824644,
+            "Name": "Strawberry Jam Good Mother"
+        },
+        {
+            "Category": "Breakfast",
+            "Id": 6825262,
+            "Name": "Honey Casino"
+        },
+        {
+            "Category": "Breakfast",
+            "Id": 12584503,
+            "Name": "Nutella"
+        },
+        {
+            "Category": "Breakfast",
+            "Id": 6826873,
+            "Name": "Frosties Kellogg's"
+        }
+    ],
+    "Prepared meals, tarts and pizzas": [
+        {
+            "Category": "Ready meals, tarts and pizzas",
+            "Id": 12296613,
+            "Name": "Cantonese rice"
+        },
+        {
+            "Category": "Ready meals, tarts and pizzas",
+            "Id": 12321362,
+            "Name": "Buns flavor bolognaise"
+        },
+        {
+            "Category": "Ready meals, tarts and pizzas",
+            "Id": 6824966,
+            "Name": "Small puff pastry - 40 blini Blini"
+        }
+    ],
+    "Rice, pasta and pulses": [
+        {
+            "Category": "Rice, pasta and pulses",
+            "Id": 6824621,
+            "Name": "Spaghetti Panzani"
+        }
+    ],
+    "Sodas": [
+        {
+            "Category": "Sodas",
+            "Id": 6826466,
+            "Name": "Lemonade"
+        }
+    ],
+    "Hair care": [
+        {
+            "Category": "Hair care",
+            "Id": 6824625,
+            "Name": "Conditioner Le Petit Marseillais"
+        },
+        {
+            "Category": "Hair care",
+            "Id": 6824674,
+            "Name": "Lacquer Casino"
+        }
+    ],
+    "Body care": [
+        {
+            "Category": "Body care",
+            "Id": 6824142,
+            "Name": "Deodorant Ushuaia"
+        }
+    ],
+    "Linen care": [
+        {
+            "Category": "Linen care",
+            "Id": 12720248,
+            "Name": "Laundry"
+        }
+    ],
+    "Yogurts and desserts": [
+        {
+            "Category": "Yogurt and desserts",
+            "Id": 12714397,
+            "Name": "Taillefine"
+        },
+        {
+            "Category": "Yogurt and desserts",
+            "Id": 6822655,
+            "Name": "Danette"
+        },
+        {
+            "Category": "Yogurt and desserts",
+            "Id": 6824906,
+            "Name": "White cheese"
+        }
+    ]
+}
