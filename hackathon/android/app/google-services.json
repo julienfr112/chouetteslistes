@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "130061167742",
+    "firebase_url": "https://chouetteslistes.firebaseio.com",
+    "project_id": "chouetteslistes",
+    "storage_bucket": "chouetteslistes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130061167742:android:c1a919f5f3c47365",
+        "android_client_info": {
+          "package_name": "com.yourcompany.hackathon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130061167742-iegumhrauo77lt5g4fci37u2ahm1452n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz89r7QcnUxk9zdj8Pz3oWP1p1-Wp5418"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
